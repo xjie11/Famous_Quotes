@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1389831095 source:c:\users\jesse\code blocks projects\famous_quotes\functions.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<stdlib.h>
+
